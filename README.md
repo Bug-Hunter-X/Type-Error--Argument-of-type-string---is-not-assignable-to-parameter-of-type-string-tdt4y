@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript error: passing an array of strings to a function expecting a single string. The bug.ts file contains the erroneous code, while bugSolution.ts provides a corrected version that handles the array input appropriately.  The solution uses a type guard to ensure the appropriate type handling.
